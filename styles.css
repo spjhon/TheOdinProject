@@ -1,0 +1,18 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.border {
+    padding: 20px;
+    outline: 1px solid black;
+    margin: 30px;
+}
+
+#full-viewport {
+    background-color: blue;
+    padding: 20px;
+    margin: 30px;
+  }
